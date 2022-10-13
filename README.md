@@ -1,3 +1,19 @@
+## Simple perceptron implementation via TypeScript
+
+#### The main idea based on prediction what color a matrix cell should have
+
+Just pull this code, install all necessary dependencies and launch via `npm start` command.
+
+Clicking on every cell of matrix perceptron will try to predict which color  should be 'green' of 'yellow'.
+Expected behavior is a matrix divided equally into green and yellow parts.
+
+To get this we should teach perceptron by clicking on 'Teach' button. Every time we click we teach perceptron and get a better result. Approximately 5-7 times should be enough.   
+
+![alt text](./git-assets/1.png)
+![alt text](./git-assets/2.png)
+![alt text](./git-assets/3.png)
+![alt text](./git-assets/4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
